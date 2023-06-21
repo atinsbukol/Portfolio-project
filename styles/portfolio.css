@@ -1,0 +1,23 @@
+/*font-family: 'Playfair Display',
+serif;
+font-family: 'Poppins',
+sans-serif;
+font-family: 'PT Mono',
+monospace;
+font-family: 'Roboto',
+sans-serif;
+*/
+
+
+h1 {
+    color: black;
+    font-family: 'Poppins',
+            sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Playfair Display',
+            serif;
+    font-weight: normal;
+}
